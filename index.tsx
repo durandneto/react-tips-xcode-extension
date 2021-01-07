@@ -19,7 +19,7 @@ class App extends Component<AppProps, AppState> {
 
   render() {
     return (
-      <Container sm>
+      <Container>
         <Row>
           <Column full>
             <Card
